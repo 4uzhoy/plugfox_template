@@ -197,10 +197,10 @@ packages:
     dependency: "direct main"
     description:
       name: control
-      sha256: db0596ede0d145ad1499dd2e2dba25b364fec809934f08fafcb6f80a7d025971
+      sha256: fa60aa8284ea20b519796a523c6b55eb71b3adfc0527d4ed2255ee9adf5029a3
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.1-pre.0"
+    version: "0.0.2"
   convert:
     dependency: "direct main"
     description:
